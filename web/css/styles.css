@@ -1,0 +1,28 @@
+body {
+    background-color: #fbfbfb;
+    font-family: sans-serif;
+    font-size: 18px;
+    
+   
+    
+}
+
+h2{
+ background-color: darkorange;
+}
+
+ol{
+    background-color: aquamarine;
+}
+
+.par{
+    color : white;
+}
+
+.jumbotron{
+    background-color: yelloow!important;
+    background-image: url(http://www.tutorwebdesign.com/wp-content/uploads/2017/06/html-Header-section.png);
+    color : white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

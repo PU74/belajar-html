@@ -1,0 +1,7 @@
+Belajar CSS 
+Dalam file .css
+tanda # utk ID di html
+tanda . utk nama Class
+
+apabila file .css ada didalam folder
+cukup dirubah di href file htmlnya saja contoh : <link rel="stylesheet" href="web/css/styles.css">
